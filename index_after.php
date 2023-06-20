@@ -105,7 +105,6 @@ session_start();
         <img src="img/ml.jpg" alt="ml" />
         <div class="course-details">
           <h3>Machine <br />Learning</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam adipisci vel ducimus!</p>
           <a href="ml_course.html" class="btn-course">Start Course</a>
         </div>
       </div>
@@ -116,7 +115,6 @@ session_start();
             Phyton For <br />
             Data Science
           </h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam adipisci vel ducimus!</p>
           <a href="pds_course.html" class="btn-course">Start Course</a>
         </div>
       </div>
@@ -124,7 +122,6 @@ session_start();
         <img src="img/fr.jpg" alt="Fullstack-Web" />
         <div class="course-details">
           <h3>Fullstack <br />Web</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam adipisci vel ducimus!</p>
           <a href="fw_course.html" class="btn-course">Start Course</a>
         </div>
       </div>
@@ -132,7 +129,6 @@ session_start();
         <img src="img/dg.jpg" alt="design-grafis" />
         <div class="course-details">
           <h3>Design Graphic <br />With Figma</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam adipisci vel ducimus!</p>
           <a href="dg_course.html" class="btn-course">Start Course</a>
         </div>
       </div>
@@ -143,7 +139,6 @@ session_start();
             AWS Cloud <br />
             Computing
           </h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam adipisci vel ducimus!</p>
           <a href="cc_course.html" class="btn-course">Start Course</a>
         </div>
       </div>
@@ -154,7 +149,6 @@ session_start();
             Introduction To <br />
             UI/UX Design
           </h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam adipisci vel ducimus!</p>
           <a href="uiux_course.html" class="btn-course">Start Course</a>
         </div>
       </div>
@@ -170,7 +164,6 @@ session_start();
         <img src="img/cc.jpg" alt="Quiz 1 AWS Cloud" />
         <div class="quiz-details">
           <h3>Quiz 1 AWS Cloud</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam adipisci vel ducimus!</p>
           <p>Level: Beginner</p>
           <a href="cc_quiz.html" class="btn-quiz">Start Quiz</a>
         </div>
@@ -179,7 +172,6 @@ session_start();
         <img src="img/ml.jpg" alt="Quiz 1 Machine Learning" />
         <div class="quiz-details">
           <h3>Quiz 1 Machine Learning</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam adipisci vel ducimus!</p>
           <p>Level: Beginner</p>
           <a href="ml_quiz.html" class="btn-quiz">Start Quiz</a>
         </div>
@@ -188,7 +180,6 @@ session_start();
         <img src="img/fr.jpg" alt="Quiz 1 Fullstack Web" />
         <div class="quiz-details">
           <h3>Quiz 1 Fullstack Web</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam adipisci vel ducimus!</p>
           <p>Level: Beginner</p>
           <a href="fw_quiz.html" class="btn-quiz">Start Quiz</a>
         </div>
@@ -200,7 +191,7 @@ session_start();
 </body>
 <footer>
   <div id="copyright">
-    <div class="wrapper">&copy; 2020. <b>Kelompok 3 RPL.</b> All Rights Reserved.</div>
+    <div class="wrapper">&copy; 2023. <b>Kelompok 3 RPL.</b> All Rights Reserved.</div>
   </div>
 </footer>
 <!-- Feather Icons -->
